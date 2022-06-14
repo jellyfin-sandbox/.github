@@ -1,0 +1,10 @@
+# Idea IDEs
+.idea/
+
+# VS Code
+.vscode/
+.history/
+
+# macOS BS
+.DS_Store
+._*
